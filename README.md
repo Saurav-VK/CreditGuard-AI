@@ -75,6 +75,8 @@ Input Data → Preprocessing → Feature Engineering → Model → Prediction AP
 
 \## Dataset Installation: Datasets can be installed from https://www.kaggle.com/competitions/home-credit-default-risk/data
 
+\### Training dataset: application_train.csv 
+\### Testing dataset: application_test.csv
 
 
 \---
