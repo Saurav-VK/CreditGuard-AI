@@ -73,6 +73,7 @@ Financial institutions need to assess whether a loan applicant is likely to defa
 Input Data → Preprocessing → Feature Engineering → Model → Prediction API → Response
 
 
+\## Dataset Installation: Datasets can be installed from https://www.kaggle.com/competitions/home-credit-default-risk/data
 
 
 
